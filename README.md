@@ -1,0 +1,1 @@
+This repository is created following the CodeDex Git/GitHub tutorial. The code file inside ('gif.py') is created following the tutorial by Sonny Li on CodeDex (https://www.codedex.io/projects/create-a-gif-with-python).  
